@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/RaghavendraReddy7/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/RaghavendraReddy7/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/RaghavendraReddy7/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/RaghavendraReddy7/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/RaghavendraReddy7/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
