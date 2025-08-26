@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaghavendraReddy7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/RaghavendraReddy7/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaghavendraReddy7/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/RaghavendraReddy7/Leetcode/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/RaghavendraReddy7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/RaghavendraReddy7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0777-toeplitz-matrix](https://github.com/RaghavendraReddy7/Leetcode/tree/master/0777-toeplitz-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/RaghavendraReddy7/Leetcode/tree/master/0135-candy) |
 | [0649-dota2-senate](https://github.com/RaghavendraReddy7/Leetcode/tree/master/0649-dota2-senate) |
 ## Divide and Conquer
 |  |
